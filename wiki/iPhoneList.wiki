@@ -1,0 +1,17 @@
+#summary Windows File Explorer - like view of the iPhone file system.
+#labels Featured
+
+= Introduction =
+
+I want a fully functional GUI into the iPhone file system. This program is based on Manzana, Peter Dennis Bartok's C# class-library implementation of some of the work done by the #iphone-dev jailbreak and iphoneinterface teams. 
+
+
+= Details =
+
+Not much here yet, but more to come...
+I only have the basic GUI working. I added file details that were missing in ManzanaUI.
+
+I use a different model than ManzanaUI in that I poll for the iPhone connection. I couldn't maintain GUI editing control within VS2005 the way ManzanaUI was coded, so I created a GUI from scratch, borrowing pieces of code from ManzanaUI and putting a lot of my own GUI ideas there.
+
+If you want to help out... 
+Cmputr<nothinghere>Ace(anATsigngoeshere)g.dontincludethis.mail{adotgoeshere}com
