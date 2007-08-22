@@ -7,8 +7,22 @@ I want a fully functional GUI into the iPhone file system. This program is based
 
 
 == Details ==
-Current working Features: (v0.5.0 - r12)
+Version 0.9.8.70:
+  * Added full iPhoneLinks (Favorites menu) with ability to add new links - they are stored in Prefs.
+  * Cleaned up prefs storage
+  * Fixed File / Exit
 
+Version 0.9.7.68:
+  * iPhoneList now looks for iTunesMobileDevice.dll - you don't need to copy it.
+  * Office 2003-like toolbars
+  * Copy to deivce fixed
+  * Configurable file / folder recognition
+  * Performance improvements
+  * Added the foundations for "Favorites"
+  * User Preferences saved and reloaded
+  * REALLY CLOSE to decoding binary plists
+
+Current working Features: (v0.5.0 - r12)
   * Drop Files / Folders onto iPhone
   * Create Folders on iPhone
   * Delete files / folders from iPhone
