@@ -1,9 +1,18 @@
 #summary Windows File Explorer - like view of the iPhone file system.
-#labels Featured
+#labels Featured,Phase-Implementation
 
 = Introduction =
 
 I want a fully functional GUI into the iPhone file system. This program is based on Manzana, Peter Dennis Bartok's C# class-library implementation of some of the work done by the #iphone-dev jailbreak and iphoneinterface teams. 
+
+
+== In Progress ==
+Binary PList conversion is almost complete. Keep checking.
+After that I go after the PNG conversion. All windows C# code (for now)
+
+I'm considering moving the project to MONO or Lazarus / FreePascal for multi-OS operation...
+
+Thoughts??
 
 
 == Details ==
